@@ -1,4 +1,4 @@
-THe second class repo readme!
+The second class repo readme!
 ------------------
 
-- Addeds ome better information
+- Added some better information
